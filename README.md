@@ -1,2 +1,7 @@
-# term-deposit-prediction
-Machine learning project for predicting customer subscription
+# Term Deposit Subscription Prediction
+Machine learning project to predict customer subscription.
+## Tools
+- Python
+- Scikit-learn
+## File
+- Term Deposit Subscription Prediction.ipynb
